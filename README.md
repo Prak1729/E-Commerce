@@ -1,7 +1,7 @@
 
 ## Made by [Prakhar Sharma](https://www.linkedin.com/in/prakhar-sharma-8a3a09191/)
 
-[Final Result Showcase](GIF/Images%20GIF.gif)
+![Final Result Showcase](GIF/Images%20GIF.gif)
 
 
 - I have designed the page using reactstarp.
